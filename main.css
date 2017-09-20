@@ -1,7 +1,9 @@
 
   body {
    background-color: #ffffff;
-   font: gotham
+   font: gotham;
+   color: #27332B;
+   text-align: center;
   }
 
   h1 {
@@ -17,5 +19,5 @@
   }
 
 a {
-color: #69CBBB;
+color: #B0E0E6;
 }
