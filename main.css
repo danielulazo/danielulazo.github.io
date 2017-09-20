@@ -1,6 +1,7 @@
 
   body {
    background-color: #ffffff;
+   font: gotham
   }
 
   h1 {
@@ -13,7 +14,6 @@
  padding: 20px;
  color: #33a8ff;
  text-align: center;
- border: 3px dotted #ff008d;
   }
 
 a {
