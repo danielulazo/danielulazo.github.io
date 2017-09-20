@@ -1,7 +1,7 @@
 
   body {
    background-color: #ffffff;
-   font: gotham;
+   font: Gotham;
    color: #27332B;
    text-align: center;
   }
@@ -9,7 +9,7 @@
   h1 {
    color: #221277;
    text-align: center;
-   font: italic 200% gotham;
+   font: bold italic 200% Gotham;
   }
 
   p {
